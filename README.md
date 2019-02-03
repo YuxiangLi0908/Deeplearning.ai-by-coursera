@@ -5,7 +5,7 @@ This repo records my journey into deep learning. All the code base, screenshot, 
 
 ## Programming Assignments
 - Course 1: Neural Networks and Deep Learning
-  - [Week 2: Logistic Regression with a Neural Network mindset](/Course-1-Neural-Networks-and-Deep-Learning/Logistic-Regression-with-a-Neural-Network-mindset.ipynb)
+  - [Week 2: Logistic Regression with a Neural Network mindset](https://github.com/YuxiangLi0908/Deeplearning.ai-by-coursera/blob/master/Course%201:%20Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
 
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
