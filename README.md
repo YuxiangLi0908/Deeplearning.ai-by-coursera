@@ -17,4 +17,4 @@ This repo records my journey into deep learning. All the code base, screenshot, 
 - Course 5: Sequence Models
 
 
-[Week 2: Logistic Regression with a Neural Network mindset](/Course-1:-Neural-Networks-and-Deep-Learning/Logistic-Regression-with-a-Neural-Network-mindset.ipynb)
+[Week 2: Logistic Regression with a Neural Network mindset](/course-1-neural-networks-and-deep-learning/logistic-regression-with-a-neural-network-mindset.ipynb)
