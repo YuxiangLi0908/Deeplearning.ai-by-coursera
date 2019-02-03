@@ -5,7 +5,7 @@ This repo records my journey into deep learning. All the code base, screenshot, 
 
 ## Programming Assignments
 - Course 1: Neural Networks and Deep Learning
-  - []
+  - [Week 2: Logistic Regression with a Neural Network mindset](Course_1:_Neural_Networks_and_Deep_Learning/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
@@ -15,3 +15,6 @@ This repo records my journey into deep learning. All the code base, screenshot, 
 - Course 4: Convolutional Neural Networks
 
 - Course 5: Sequence Models
+
+
+[Week 2: Logistic Regression with a Neural Network mindset](Course 1: Neural Networks and Deep Learning/Logistic Regression with a Neural Network mindset.ipynb)
