@@ -12,7 +12,7 @@ This repo records my journey into deep learning. All the code base, screenshot, 
   - [Week 4: Deep Neural Network for Image Classification: Application
 ](https://github.com/YuxiangLi0908/Deeplearning.ai-by-coursera/blob/master/Course%201:%20Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20for%20Image%20Classification%20Application.ipynb)
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-
+  - [Week 1: Initialization](https://github.com/YuxiangLi0908/Deeplearning.ai-by-coursera/blob/master/Course%202:%20Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
 - Course 3: Structuring Machine Learning Projects
 
 - Course 4: Convolutional Neural Networks
