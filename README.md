@@ -14,7 +14,7 @@ This repo records my journey into deep learning. All the code base, screenshot, 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
   - [Week 1: Initialization](https://github.com/YuxiangLi0908/Deeplearning.ai-by-coursera/blob/master/Course%202:%20Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
   - [Week 1: Regularization](https://github.com/YuxiangLi0908/Deeplearning.ai-by-coursera/blob/master/Course%202:%20Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization.ipynb)
-  - [Week 1: Gradient Checking]()
+  - [Week 1: Gradient Checking](https://github.com/YuxiangLi0908/Deeplearning.ai-by-coursera/blob/master/Course%202:%20Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Gradient%20Checking.ipynb)
 - Course 3: Structuring Machine Learning Projects
 
 - Course 4: Convolutional Neural Networks
